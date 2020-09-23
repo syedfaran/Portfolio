@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37915920760",
+    "firebase_url": "https://onlineresume-6ecfd.firebaseio.com",
+    "project_id": "onlineresume-6ecfd",
+    "storage_bucket": "onlineresume-6ecfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37915920760:android:d0218be8ad4946b57ea08d",
+        "android_client_info": {
+          "package_name": "com.example.SyedFaranPortfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37915920760-9c464hd46cmljqf9gg4e6fcbl8hmkth4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUFvLrm8VS_LjiT6oOVbXvvTZ5pU6YZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37915920760-9c464hd46cmljqf9gg4e6fcbl8hmkth4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
